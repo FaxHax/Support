@@ -1,8 +1,8 @@
 <div align="center">
 
-[![](https://2b2t.com.au/faxhax/images/popbob.png)](https://faxhax.club)  
+[![](https://faxhax.club/images/popbob.png)](https://faxhax.club)  
   
-# QueueSkip Support
+# FaxHax Support
 ###### *Public feature & bug tracker for [FaxHax](https://faxhax.club)*
   
 ### **[Request a feature][1]**
