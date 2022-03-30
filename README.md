@@ -1,7 +1,5 @@
 <div align="center">
 
-[![](https://faxhax.club/images/popbob.png)](https://faxhax.club)  
-  
 # FaxHax Support
 ###### *Public feature & bug tracker for [FaxHax](https://faxhax.club)*
   
